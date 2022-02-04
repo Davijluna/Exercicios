@@ -1,0 +1,9 @@
+p,h1{
+text-align:center;
+}
+li:hover{
+background-color: rgb(4, 99, 75);
+}
+li:active{
+    font-family:Verdana, Geneva, Tahoma, sans-serif;
+}
